@@ -29,8 +29,8 @@ Users should be able to:
 
 ![](screesnshot_for_testimonials_grid_challenge.png)
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/modydev10/testimonials-grid-section)
+- Live Site URL: (https://modydev10.github.io/testimonials-grid-section/)
 
 ### Built with
 
