@@ -40,15 +40,14 @@ Users should be able to:
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
-I relaized that relying on grid-row and grid-columns to determine the size of
-an element is a little tricky and probably not a best practice
+I relaized that relying on grid-row and grid-column to determine the size of
+a grid element is probably not the best practice
 
 ### AI Collaboration
 
 I asked Gemini to give me a box-shadow value that makes an element obvious without
-giving it borders. in short, a box-shadow value that does the job of borders .
+giving it borders. in short, a box-shadow value that does the job of borders.
 
 ## Author
 
